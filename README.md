@@ -9,3 +9,5 @@ formatter.string(fromNumber: 1009) // 1K
 formatter.string(fromNumber: 5000000) // 5M
 formatter.string(fromNumber: 999999) // 999.9K
 ```
+
+Used `ByteCountFormatter.swift` as a reference.
